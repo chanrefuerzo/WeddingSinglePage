@@ -9,7 +9,7 @@ export default function Home({}: Props) {
   return (
     <section
       id="home"
-      className="flex flex-col items-center justify-center bg-no-repeat bg-cover h-screen bg-top bg-fixed"
+      className="flex flex-col items-center justify-center bg-no-repeat bg-cover h-screen bg-top bg-fixed  "
       style={{
         backgroundImage: `url(${backgroundLogo})`,
         backgroundAttachment: "fixed",
