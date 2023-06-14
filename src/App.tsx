@@ -6,7 +6,7 @@ import Hero from "./pages/Hero";
 import Story from "./pages/Story";
 import HeroSecond from "./pages/HeroSecond";
 import Where from "./pages/Where";
-import HeroThird from "./pages/HeroThird";
+// import HeroThird from "./pages/HeroThird";
 import Gallery from "./pages/Gallery";
 import HeroFourth from "./pages/HeroFourth";
 import Groomsmen from "./pages/Groomsmen";
