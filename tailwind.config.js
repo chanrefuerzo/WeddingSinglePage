@@ -6,6 +6,7 @@ export default {
       fontFamily: {
         pacifico: ["Pacifico", "cursive"],
         sans: ["Oswald", "sans-serif"],
+        arvo: ["Arvo", "sans-serif"],
       },
     },
   },

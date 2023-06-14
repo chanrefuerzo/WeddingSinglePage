@@ -6,13 +6,16 @@ export default function BridesMaid({}: Props) {
   return (
     <section id="">
       <div className="text-center w-3/6 mx-auto mt-20 pb-20">
-        <div className="mt-10">BridesMaid</div>
-        <div className="mt-10">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-          ultrices malesuada ante quis pharetra. Nullam notn bibendum dolor. Ut
-          vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam
-          ut ultrices nibh. Etiam aliquam mauris non hendrerit faucibus. Proin
-          pulvinar congue ex, vitae
+        <div className="mt-10 text-5xl">BridesMaid</div>
+        <div className="mt-10 text-gray-500 font-arvo ">
+          These fabulous bridesmaids who have graciously agreed to be the
+          bride's partners in crime! They've been with her through thick and
+          thin, from the questionable fashion choices to the unforgettable
+          adventures. Today, we celebrate not only the union of the happy couple
+          but also the amazing squad of women who have mastered the art of
+          balancing beauty, laughter, and occasional chaos. Let's raise our
+          glasses and toast to these remarkable ladies who will continue to be
+          the bride's partners in mischief and lifelong friends.
         </div>
         <div className="mt-10 flex gap-14">
           <div className="border-[15px] bg-white border-white">

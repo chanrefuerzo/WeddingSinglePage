@@ -6,13 +6,16 @@ export default function Groomsmen({}: Props) {
   return (
     <section id="groomsmen" className=" bg-gray-100 ">
       <div className="text-center w-3/6 mx-auto mt-20 pb-20">
-        <div className="mt-10">GROOMSMEN</div>
-        <div className="mt-10">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-          ultrices malesuada ante quis pharetra. Nullam notn bibendum dolor. Ut
-          vel turpis accumsan, efficitur dolor fermentum, tincidunt metus. Etiam
-          ut ultrices nibh. Etiam aliquam mauris non hendrerit faucibus. Proin
-          pulvinar congue ex, vitae
+        <div className="mt-10 text-5xl">GROOMSMEN</div>
+        <div className="mt-10 text-gray-500 font-arvo">
+          These fine gentlemen have been meticulously chosen to stand by the
+          groom's side, ensuring that he doesn't run away before saying "I do."
+          With their unmatched ability to keep the groom in line and their
+          expert skills in celebrating, they are the secret weapons to making
+          this wedding day unforgettable. So raise your glasses and let's toast
+          to the groomsmen, the unsung heroes who keep the party going and make
+          sure the groom arrives on time, hopefully without any embarrassing
+          stories to share later!
         </div>
         <div className="mt-10 flex gap-14">
           <div className="border-[15px] bg-white border-white">
